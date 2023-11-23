@@ -159,3 +159,6 @@ python3 -m pytest
 python3 -m pytest -v -k TestTrain
 python3 ./test/models/test_train.py TestTrain.test_efficientnet
 ```
+
+
+Six anything with general ready prove picture.
